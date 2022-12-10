@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Транслитератор</title>
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="stylesheet" href="styles/adaptive.css">
+</head>
+<body>
+<header class="header">
+    <div class="container">
+        <img src="static/images/logo.png" alt="logo" class="logo">
+    </div>
+</header>
+<section class="main">
+    <div class="container">
+        <h1 class="main-title">Транслит онлайн переводчик маркетинг BREMOR</h1>
+        <div class="main-content">
+            <div class="main-item">
+                <div class="main-item-actions">
+                    <div class="main-item-actions-title">ИСХОДНЫЙ ТЕКСТ</div>
+                    <div>
+                        <button class="btn" id="clear-btn">Очистить</button>
+                        <button class="btn btn-green" id="translate-btn">Перевести</button>
+                    </div>
+                </div>
+                <textarea name="main-item-text" class="main-item-text" id="src-text" spellcheck="false"></textarea>
+
+            </div>
+            <div class="main-item">
+                <div class="main-item-actions">
+                    <div class="main-item-actions-title">ТРАНСЛИТЕРАЦИЯ</div>
+                    <button class="btn" id="copy-btn">Скопировать</button>
+                </div>
+                <textarea name="main-item-text" id="trans-text"  class="main-item-text"
+                          spellcheck="false"></textarea>
+            </div>
+        </div>
+        <div class="main-rule">
+            <div class="main-rule-title">ПРАВИЛА ТРАНСЛИТЕРАЦИИ</div>
+            <div class="rule-items">
+                <table class="table">
+                    <tr>
+                        <td>А</td>
+                        <td>A</td>
+                    </tr>
+                    <tr>
+                        <td>Б</td>
+                        <td>B</td>
+                    </tr>
+                    <tr>
+                        <td>В</td>
+                        <td>V</td>
+                    </tr>
+                    <tr>
+                        <td>Г</td>
+                        <td>G</td>
+                    </tr>
+                    <tr>
+                        <td>Д</td>
+                        <td>D</td>
+                    </tr>
+                    <tr>
+                        <td>Е</td>
+                        <td>E</td>
+                    </tr>
+                    <tr>
+                        <td>Ё</td>
+                        <td>E</td>
+                    </tr>
+                    <tr>
+                        <td>Ж</td>
+                        <td>ZH</td>
+                    </tr>
+                    <tr>
+                        <td>З</td>
+                        <td>Z</td>
+                    </tr>
+                    <tr>
+                        <td>И</td>
+                        <td>I</td>
+                    </tr>
+                    <tr>
+                        <td>Й</td>
+                        <td>Y</td>
+                    </tr>
+                </table>
+                <table class="table">
+                    <tr>
+                        <td>К</td>
+                        <td>K</td>
+                    </tr>
+                    <tr>
+                        <td>Л</td>
+                        <td>L</td>
+                    </tr>
+                    <tr>
+                        <td>М</td>
+                        <td>M</td>
+                    </tr>
+                    <tr>
+                        <td>Н</td>
+                        <td>N</td>
+                    </tr>
+                    <tr>
+                        <td>О</td>
+                        <td>O</td>
+                    </tr>
+                    <tr>
+                        <td>П</td>
+                        <td>P</td>
+                    </tr>
+                    <tr>
+                        <td>Р</td>
+                        <td>R</td>
+                    </tr>
+                    <tr>
+                        <td>С</td>
+                        <td>S</td>
+                    </tr>
+                    <tr>
+                        <td>Т</td>
+                        <td>T</td>
+                    </tr>
+                    <tr>
+                        <td>У</td>
+                        <td>U</td>
+                    </tr>
+                    <tr>
+                        <td>Ф</td>
+                        <td>F</td>
+                    </tr>
+                </table>
+                <table class="table">
+                    <tr>
+                        <td>Х</td>
+                        <td>H</td>
+                    </tr>
+                    <tr>
+                        <td>Ц</td>
+                        <td>C</td>
+                    </tr>
+                    <tr>
+                        <td>Ч</td>
+                        <td>CH</td>
+                    </tr>
+                    <tr>
+                        <td>Ш</td>
+                        <td>SH</td>
+                    </tr>
+                    <tr>
+                        <td>Щ</td>
+                        <td>SCH</td>
+                    </tr>
+                    <tr>
+                        <td>Ь</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Ы</td>
+                        <td>Y</td>
+                    </tr>
+                    <tr>
+                        <td>Ъ</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Э</td>
+                        <td>E</td>
+                    </tr>
+                    <tr>
+                        <td>Ю</td>
+                        <td>YU</td>
+                    </tr>
+                    <tr>
+                        <td>Я</td>
+                        <td>YA</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</section>
+<footer class="footer">
+    <div class="container">
+        <img src="static/images/logo.png" alt="logo" class="logo">
+    </div>
+</footer>
+<script src="src/js/index.js"></script>
+</body>
+</html>

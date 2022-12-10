@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "letter": "а",
+    "value": "a"
+  },
+  {
+    "id": 2,
+    "letter": "б",
+    "value": "b"
+  },
+  {
+    "id": 3,
+    "letter": "в",
+    "value": "v"
+  },
+  {
+    "id": 4,
+    "letter": "г",
+    "value": "g"
+  },
+  {
+    "id": 5,
+    "letter": "д",
+    "value": "d"
+  },
+  {
+    "id": 6,
+    "letter": "е",
+    "value": "e"
+  },
+  {
+    "id": 7,
+    "letter": "ё",
+    "value": "e"
+  },
+  {
+    "id": 8,
+    "letter": "ж",
+    "value": "zh"
+  },
+  {
+    "id": 9,
+    "letter": "з",
+    "value": "z"
+  },
+  {
+    "id": 10,
+    "letter": "и",
+    "value": "i"
+  },
+  {
+    "id": 11,
+    "letter": "й",
+    "value": "y"
+  },
+  {
+    "id": 12,
+    "letter": "к",
+    "value": "k"
+  },
+  {
+    "id": 13,
+    "letter": "л",
+    "value": "l"
+  },
+  {
+    "id": 14,
+    "letter": "м",
+    "value": "m"
+  },
+  {
+    "id": 15,
+    "letter": "н",
+    "value": "n"
+  },
+  {
+    "id": 16,
+    "letter": "о",
+    "value": "o"
+  },
+  {
+    "id": 17,
+    "letter": "п",
+    "value": "p"
+  },
+  {
+    "id": 18,
+    "letter": "р",
+    "value": "r"
+  },
+  {
+    "id": 19,
+    "letter": "с",
+    "value": "s"
+  },
+  {
+    "id": 20,
+    "letter": "т",
+    "value": "t"
+  },
+  {
+    "id": 21,
+    "letter": "у",
+    "value": "u"
+  },
+  {
+    "id": 22,
+    "letter": "ф",
+    "value": "f"
+  },
+  {
+    "id": 23,
+    "letter": "х",
+    "value": "h"
+  },
+  {
+    "id": 24,
+    "letter": "ц",
+    "value": "c"
+  },
+  {
+    "id": 25,
+    "letter": "ч",
+    "value": "ch"
+  },
+  {
+    "id": 26,
+    "letter": "ш",
+    "value": "sh"
+  },
+  {
+    "id": 27,
+    "letter": "щ",
+    "value": "sch"
+  },
+  {
+    "id": 28,
+    "letter": "ь",
+    "value": ""
+  },
+  {
+    "id": 29,
+    "letter": "ы",
+    "value": "y"
+  },
+  {
+    "id": 30,
+    "letter": "ъ",
+    "value": ""
+  },
+  {
+    "id": 31,
+    "letter": "э",
+    "value": "e"
+  },
+  {
+    "id": 32,
+    "letter": "ю",
+    "value": "yu"
+  },
+  {
+    "id": 33,
+    "letter": "я",
+    "value": "ya"
+  },
+  {
+    "id": 34,
+    "letter": "А",
+    "value": "A"
+  },
+  {
+    "id": 35,
+    "letter": "Б",
+    "value": "B"
+  },
+  {
+    "id": 36,
+    "letter": "В",
+    "value": "V"
+  },
+  {
+    "id": 37,
+    "letter": "Г",
+    "value": "G"
+  },
+  {
+    "id": 38,
+    "letter": "Д",
+    "value": "D"
+  },
+  {
+    "id": 39,
+    "letter": "Е",
+    "value": "E"
+  },
+  {
+    "id": 40,
+    "letter": "Ё",
+    "value": "E"
+  },
+  {
+    "id": 41,
+    "letter": "Ж",
+    "value": "Zh"
+  },
+  {
+    "id": 42,
+    "letter": "З",
+    "value": "Z"
+  },
+  {
+    "id": 43,
+    "letter": "И",
+    "value": "I"
+  },
+  {
+    "id": 44,
+    "letter": "Й",
+    "value": "Y"
+  },
+  {
+    "id": 45,
+    "letter": "К",
+    "value": "K"
+  },
+  {
+    "id": 46,
+    "letter": "Л",
+    "value": "L"
+  },
+  {
+    "id": 47,
+    "letter": "М",
+    "value": "M"
+  },
+  {
+    "id": 48,
+    "letter": "Н",
+    "value": "N"
+  },
+  {
+    "id": 49,
+    "letter": "О",
+    "value": "O"
+  },
+  {
+    "id": 50,
+    "letter": "П",
+    "value": "P"
+  },
+  {
+    "id": 51,
+    "letter": "Р",
+    "value": "R"
+  },
+  {
+    "id": 52,
+    "letter": "С",
+    "value": "S"
+  },
+  {
+    "id": 53,
+    "letter": "т",
+    "value": "T"
+  },
+  {
+    "id": 54,
+    "letter": "У",
+    "value": "U"
+  },
+  {
+    "id": 55,
+    "letter": "Ф",
+    "value": "F"
+  },
+  {
+    "id": 56,
+    "letter": "Х",
+    "value": "H"
+  },
+  {
+    "id": 57,
+    "letter": "Ц",
+    "value": "C"
+  },
+  {
+    "id": 58,
+    "letter": "Ч",
+    "value": "Ch"
+  },
+  {
+    "id": 59,
+    "letter": "Ш",
+    "value": "Sh"
+  },
+  {
+    "id": 60,
+    "letter": "Щ",
+    "value": "Sch"
+  },
+  {
+    "id": 61,
+    "letter": "Ь",
+    "value": ""
+  },
+  {
+    "id": 62,
+    "letter": "Ы",
+    "value": "Y"
+  },
+  {
+    "id": 63,
+    "letter": "Ъ",
+    "value": ""
+  },
+  {
+    "id": 64,
+    "letter": "Э",
+    "value": "E"
+  },
+  {
+    "id": 65,
+    "letter": "Ю",
+    "value": "Yu"
+  },
+  {
+    "id": 66,
+    "letter": "Я",
+    "value": "Ya"
+  }
+]

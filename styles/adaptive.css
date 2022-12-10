@@ -1,0 +1,92 @@
+@media screen and (max-device-width: 1199px) {
+    .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
+
+@media screen and (max-device-width: 767px) {
+    .logo {
+        width: 151px;
+        height: 46px;
+    }
+
+    .main-title {
+        font-size: 22px;
+    }
+
+    .main-item-text {
+        height: 200px;
+        font-size: 16px;
+    }
+
+    .main-item-actions-title {
+        font-size: 14px;
+    }
+
+    .table {
+    margin-right: 20px;
+    }
+
+    .table tr, td {
+        font-size: 12px;
+        padding: 3px 10px 3px 10px;
+        text-align: center;
+    }
+
+    .btn {
+        width: 95px;
+        height: 30px;
+        padding: 5px;
+        font-size: 14px;
+    }
+
+    .main-rule {
+        margin-top: 40px;
+    }
+
+    .rule-items {
+        justify-content: space-between;
+    }
+
+    .main-rule-title {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-device-width: 424px) {
+    .main-title {
+        font-size: 18px;
+    }
+    .main-item-text {
+        font-size: 12px;
+    }
+    .main-item-actions-title {
+        font-size: 12px;
+    }
+
+    .btn {
+        width: 80px;
+        height: 30px;
+        padding: 5px;
+        font-size: 12px;
+    }
+
+    .main-rule-title {
+        font-size: 12px;
+    }
+
+    .table tr, td {
+        font-size: 10px;
+    }
+}
+@media screen and (max-device-width: 374px) {
+
+    .btn {
+        width: 68px;
+        height: 26px;
+        padding: 3px;
+        font-size: 10px;
+    }
+
+}
